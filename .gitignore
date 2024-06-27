@@ -13,3 +13,13 @@ export_presets.cfg
 .mono/
 data_*/
 mono_crash.*.json
+
+# Substaince painter files are too big
+*.spp
+*.assbin
+
+# GUT-specific ignores
+.gut_editor_config.json
+.gut_editor_shortcuts.cfg
+
+*.blend1

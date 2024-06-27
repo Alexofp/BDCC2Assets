@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://fw1p3uynee0w"
+path="res://.godot/imported/BigTrimTest_MyTrim Lowpoly_DefaultMaterial_Normal.png-bd396580c0ee44dc22021345d5ee5eb9.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://AssetsSource/TrimSheets/MyBigTrim/BigTrimTest_MyTrim Lowpoly_DefaultMaterial_Normal.png"
+dest_files=["res://.godot/imported/BigTrimTest_MyTrim Lowpoly_DefaultMaterial_Normal.png-bd396580c0ee44dc22021345d5ee5eb9.ctex"]
+
+[params]
+
+compress/mode=4
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=1
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=1
+roughness/src_normal="res://AssetsSource/TrimSheets/MyBigTrim/BigTrimTest_MyTrim Lowpoly_DefaultMaterial_Normal.png"
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0
