@@ -1,0 +1,3 @@
+Open "ModularWalls.blend" in Blender 4.2 or later
+Press File -> Export All Collections
+Folders inside the Export folder should now have the exported models
