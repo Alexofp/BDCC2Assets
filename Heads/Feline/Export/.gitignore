@@ -1,0 +1,3 @@
+# Ignore export files because we can regenerate them
+*.glb
+*.fbx
