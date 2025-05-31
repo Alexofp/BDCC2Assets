@@ -27,3 +27,4 @@ mono_crash.*.json
 
 *.obj
 *.mtl
+*.fbx
